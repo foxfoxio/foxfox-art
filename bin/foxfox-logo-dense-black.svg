@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg13"
+   version="1.1"
+   height="305.60834"
+   width="320">
+  <defs
+     id="defs17" />
+  <metadata
+     id="metadata8">image/svg+xml<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     style="fill:#000000"
+     transform="matrix(0.70742668,0,0,0.70742668,-122.97063,-130.16651)"
+     id="g11">
+    <title
+       id="title3">FoxFox</title>
+    <g
+       style="fill:#000000"
+       transform="matrix(1,0,0,-1,0,800)"
+       id="g10">
+      <g
+         style="fill:#000000"
+         id="g12">
+        <g
+           style="fill:#000000"
+           id="g28">
+          <path
+             style="fill:#000000;fill-rule:nonzero"
+             id="path30"
+             d="m 379.53079,184 118.414,412.954 c 3.164,11.036 13.667,19.046 24.974,19.046 h 103.253 L 507.75779,203.047 C 504.59279,192.011 494.08979,184 482.78279,184 Z" />
+        </g>
+        <g
+           style="fill:#000000"
+           id="g48">
+          <path
+             style="fill:#000000;fill-rule:nonzero"
+             id="path50"
+             d="m 173.82809,184 118.414,412.954 c 3.163,11.036 13.666,19.046 24.974,19.046 h 103.253 L 302.05609,203.047 C 298.89109,192.011 288.38709,184 277.08109,184 Z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
